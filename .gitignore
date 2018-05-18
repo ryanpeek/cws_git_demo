@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# a mac specific temp file that we don't care about
+.DS_Store
+
+# this ignores .html
+*.html
+
+# even a directory will work: /doc/output/some_raster
